@@ -66,8 +66,3 @@ How discounts impact profit margins?
 What trends and seasonality exist in the sales data?
 
 These findings can help businesses make informed decisions in pricing, marketing, inventory planning, and expansion strategies.
-
-
-
-
-
